@@ -39,9 +39,3 @@ Each phase is designed to learn and apply technologies that are commonly used in
 
 ---
 
-## 🎯 Outcome
-Through this series, you will learn how to implement:
-- Core authentication methods
-- Token-based security with JWT
-- Social login integrations (OAuth2)
-- Enterprise-level security with Keycloak
