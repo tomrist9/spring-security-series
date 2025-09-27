@@ -10,7 +10,7 @@ Each phase is designed to learn and apply technologies that are commonly used in
 
 ---
 
-## 📌 Phases
+##  Phases
 
 ### ✅ Phase 1: Basic Secured REST API
 - HTTP Basic Auth
