@@ -23,7 +23,7 @@ Each phase is designed to learn and apply technologies that are commonly used in
 - Stateless authentication
 - Repo: [spring-boot-jwt-login-template](https://github.com/tomrist9/spring-boot-jwt-login-template)
 
-### ⏳ Phase 3: OAuth2 Login Template (in progress)
+### ✅ Phase 3: OAuth2 Login Template (in progress)
 - Google, GitHub, Facebook login
 - OAuth2 + JWT integration
 - Repo: [spring-boot-oauth2-login-template](https://github.com/tomrist9/spring-boot-oauth2-login-template)
