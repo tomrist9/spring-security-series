@@ -32,10 +32,6 @@ Each phase is designed to learn and apply technologies that are commonly used in
 - Unit & integration tests for JWT/OAuth2 templates
 - Repo: *(to be added)*
 
-### 🎁 Bonus: Keycloak Integration (in progress)
-- Spring Boot + Keycloak integration
-- Role-based + token-based security
-- Repo: [spring-boot-keycloak-template](https://github.com/tomrist9/spring-boot-keycloak-template)
 
 ---
 
