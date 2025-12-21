@@ -28,10 +28,5 @@ Each phase is designed to learn and apply technologies that are commonly used in
 - OAuth2 + JWT integration
 - Repo: [spring-boot-oauth2-login-template](https://github.com/tomrist9/spring-boot-oauth2-login-template)
 
-### ⏳ Phase 4: Testing Security (in progress)
-- Unit & integration tests for JWT/OAuth2 templates
-- Repo: *(to be added)*
-
-
 ---
 
