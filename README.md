@@ -6,7 +6,6 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 This portfolio showcases different authentication and authorization implementations with **Spring Security**.  
-Each phase is designed to learn and apply technologies that are commonly used in real-world projects.
 
 ---
 
